@@ -1,0 +1,27 @@
+[
+  {
+    "role": " Media and Events-PR Coordinator",
+    "organisation": "E-Cell, IIT Bombay",
+    "startDate": "March, 2023",
+    "endDate": "March 2024",
+    "experiences": ["Part of the sub-group responsible for content creation for the LinkedIn of E-Cell which has 50K+ followers", "Design content for the Instagram page and LinkedIn page of E-Cell, IIT Bombay for 50k+ followers"],
+    "imageSrc": "history/e-cell.png"
+  },
+  {
+    "role": "EnB Buzz Mentor",
+    "organisation": " E-Cell, IIT Bombay",
+    "startDate": "October, 2023",
+    "endDate": "Decemeber, 2023",
+    "experiences": [" Led the execution of EnB Buzz, a Business Model Creation and Pitching Competition for the first-year students of IIT Bombay resulting in the participation of 1000+ students with 20+ groups of students emerging as winners" ],
+    "imageSrc": "history/e-cell.png"
+  },
+  {
+    "role": "Organizer",
+    "organisation": "Aavhan, IIT Bombay",
+    "startDate": "Apr, 2020",
+    "endDate": "Jun, 2020",
+    "experiences": [
+      "Aavhan,the annual sports fest of IIT Bombay synonymous with what it stands for, bringing over 6000 people visiting  the institute Together from 150+ colleges to complete and rejoice in the 3-day sporting extravaganza spanning 15+  sports"],
+    "imageSrc": "history/aavhan.png"
+  }
+]
