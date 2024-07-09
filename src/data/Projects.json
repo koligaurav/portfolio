@@ -1,25 +1,25 @@
 [
     {
-      "title": "Project A",
+      "title": "BigInt (BIG INTEGERS) in C++",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "description": "Developed a custom BigInt data type in C++ to handle large integers,surpassing the limitations of primitive types like long long int.",
+      "skills": ["C++", "DSA", "String"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/koligaurav/c---BigInt"
     },
     {
-      "title": "Project B",
+      "title": "Portfolio website",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
+      "description": "Developed a responsive and interactive portfolio website using React.js, showcasing personal projects and professional skills with a focus on user experience, accessibility, and responsive design...",
+      "skills": ["React","HTML","CSS"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/koligaurav/portfolio"
     },
     {
-      "title": "Project C",
+      "title": "Mountain Cargo Line Follower Bot",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "description": " Developed an autonomous line-follower bot that could climb inclines upto 30 degrees with a payload of 300 grams.",
+      "skills": ["C++", "AutoCad", "Lesser"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     }]
